@@ -1,1 +1,0 @@
-import{_ as t,c as o,a as s,o as a}from"./index-D_w3tEv_.js";const n={};function r(c,e){return a(),o("div",null,e[0]||(e[0]=[s("h1",null,"This is the about page",-1)]))}const i=t(n,[["render",r]]);export{i as default};
