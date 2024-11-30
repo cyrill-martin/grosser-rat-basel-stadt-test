@@ -1,0 +1,1 @@
+function o(c,l,s){const e={...c.query};return Object.keys(s).forEach(n=>{const u=s[n];u==null||n==="focus"&&Array.isArray(u)&&u.length===0?delete e[n]:n==="focus"&&Array.isArray(u)?e[n]=u.join(","):e[n]=u}),l.push({query:e})}export{o as u};
